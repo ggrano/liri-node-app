@@ -1,0 +1,129 @@
+User Command: /usr/local/Cellar/node/8.7.0/bin/node,/Users/gabrielgrano/Desktop/liri-node-app/liri.js
+
+LIRI Response:
+
+Usage:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: node liri.js my-tweets
+
+ERROR: Retrieving user tweets -- [object Object]User Command: node liri.js my-tweets
+
+ERROR: Retrieving user tweets -- [object Object]User Command: /usr/local/Cellar/node/8.7.0/bin/node,/Users/gabrielgrano/Desktop/liri-node-app/liri.js
+
+LIRI Response:
+
+Usage:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: node liri.js movie-this 
+
+ERROR: Retrieving OMDB entry -- nullUser Command: /usr/local/Cellar/node/8.7.0/bin/node,/Users/gabrielgrano/Desktop/liri-node-app/liri.js
+
+LIRI Response:
+
+Usage:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: /usr/local/Cellar/node/8.7.0/bin/node,/Users/gabrielgrano/Desktop/liri-node-app/liri.js
+
+LIRI Response:
+
+Usage:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: /usr/local/Cellar/node/8.7.0/bin/node,/Users/gabrielgrano/Desktop/liri-node-app/liri.js
+
+LIRI Response:
+
+Usage:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: node liri.js my-tweets
+
+LIRI Response:
+
+------------------------
+User Tweets:
+------------------------
+
+Created on: Wed Feb 07 01:39:21 +0000 2018
+Tweet content: Technology is nothing. What’s important is that you have a faith in people, that they’re basically good and smart,… https://t.co/jVQIMXLMDZ
+------------------------
+Created on: Wed Feb 07 01:38:38 +0000 2018
+Tweet content: Technology is a useful servant but a dangerous master.
+–Christian Lous Lange
+------------------------
+Created on: Wed Feb 07 01:36:45 +0000 2018
+Tweet content: Once a new technology rolls over you, if you’re not part of the steamroller, you’re part of the road.
+–Stewart Brand
+------------------------
+Created on: Wed Feb 07 01:36:24 +0000 2018
+Tweet content: Technology is the campfire around which we tell our stories.
+–Laurie Anderson
+------------------------
+Created on: Wed Feb 07 01:32:34 +0000 2018
+Tweet content: The greatest achievement of humanity is not its works of art, science, or technology, but the recognition of its ow… https://t.co/0XoZY2i8Ik
+------------------------
+Created on: Wed Feb 07 01:31:23 +0000 2018
+Tweet content: The great myth of our times is that technology is communication.
+–Libby Larsen
+------------------------
+Created on: Wed Feb 07 01:30:13 +0000 2018
+Tweet content: Technology… the knack of so arranging the world that we don’t have to experience it.
+–Max Frisch
+------------------------
+Created on: Wed Feb 07 01:28:00 +0000 2018
+Tweet content: It has become appallingly obvious that our technology has exceeded our humanity. - Albert Einstein (Scientist)
+------------------------
+Created on: Wed Feb 07 01:27:31 +0000 2018
+Tweet content: Just because something doesn’t do what you planned it to do doesn’t mean it’s useless. - Thomas Edison (Inventor)
+------------------------
+Created on: Wed Feb 07 01:26:05 +0000 2018
+Tweet content: If we continue to develop our technology without wisdom or prudence, our servant may prove to be our executioner. -… https://t.co/WeuQO10r26
+------------------------
+Created on: Wed Feb 07 01:23:15 +0000 2018
+Tweet content: The art challenges the technology, and the technology inspires the art. - John Lasseter (Director)
+------------------------
+Created on: Wed Feb 07 01:22:55 +0000 2018
+Tweet content: Science and technology revolutionize our lives, but memory, tradition and myth frame our response. - Arthur Schlesinger (Historian)
+------------------------
+Created on: Wed Feb 07 01:19:05 +0000 2018
+Tweet content: Technology is anything that wasn’t around when you were born. - Alan Kay (Computer Scientist)
+------------------------
+Created on: Wed Feb 07 01:18:01 +0000 2018
+Tweet content: My second tweet so soon?! What is this?! (Other than the second tweet)
+------------------------
+Created on: Wed Feb 07 01:17:25 +0000 2018
+Tweet content: Hello, World! It's my first tweet! #excited
+------------------------
+
+User Command: /usr/local/Cellar/node/8.7.0/bin/node,/Users/gabrielgrano/Desktop/liri-node-app/liri.js
+
+LIRI Response:
+
+Usage:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: node liri.js movie-this The+Matrix 
+
+ERROR: Retrieving OMDB entry -- nullUser Command: node liri.js spotify-this-song Dawn 
+
